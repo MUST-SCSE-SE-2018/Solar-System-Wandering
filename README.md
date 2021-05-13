@@ -1,4 +1,4 @@
-# Solar-System-Game
+# Solar-System-Wandering
 
 ### General Introduction
 > This is the final project of M.U.S.T. CS104 Computer Graphics, I totally spend 6 days to complete all parts ( *2 days 
