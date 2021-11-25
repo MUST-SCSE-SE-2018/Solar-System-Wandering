@@ -41,39 +41,41 @@
 ------
 
 ### Deployment
-1. Create a project and copy all files into the root directory.
+1. Download the repository by `git clone https://github.com/KennardWang/Solar-System-Wandering.git`.
+2. [Download](https://github.com/KennardWang/Solar-System-Wandering/releases) the **deployment** folder and unzip.
+3. Create a project and copy all files into the root directory.
 
 ![tutorial1](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial1.png)
 
-2. Click **Show All Files**.
+4. Click **Show All Files**.
 
 ![tutorial2](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial2.png)
 
-3. Select all files except those in **deployment** , right click and choose **Include In Project**.
+5. Select all files except those in **deployment** , right click and choose **Include In Project**.
 
 ![tutorial3](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial3.png)
 
-4. Find **spacecraft.obj**, right click and choose **Properties**.
+6. Find **spacecraft.obj**, right click and choose **Properties**.
 
 ![tutorial4](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial4.png)
 
-5. Set the value of **Excluded from Build** to **Yes**.
+7. Set the value of **Excluded from Build** to **Yes**.
 
 ![tutorial5](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial5.png)
 
-6. Find project -> Properties -> C/C++ -> General, set the include directories as **.../deployment/include**.
+8. Find project -> Properties -> C/C++ -> General, set the include directories as **.../deployment/include**.
 
 ![tutorial6](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial6.png)
 
-7. Find project -> Properties -> Linker -> General, set the additional library directories as **.../deployment/lib**.
+9. Find project -> Properties -> Linker -> General, set the additional library directories as **.../deployment/lib**.
 
 ![tutorial7](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial7.png)
 
-8. Find project -> Properties -> Linker -> Input, set the additional dependencies as **glfw3.lib glew32.lib soil2-debug.lib opengl32.lib**.
+10. Find project -> Properties -> Linker -> Input, set the additional dependencies as **glfw3.lib glew32.lib soil2-debug.lib opengl32.lib**.
 
 ![tutorial8](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial8.png)
 
-9. Now you can start to compile **main.cpp** and run.
+11. Now you can start to compile **main.cpp** and run.
 
 ------
 
