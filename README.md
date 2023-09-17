@@ -1,9 +1,22 @@
 # Solar-System-Wandering
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Solar-System-Wandering" />
-  <img src="https://img.shields.io/github/license/KennardWang/Solar-System-Wandering" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+
+  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Solar-System-Wandering)
+  &nbsp;
+  [![stars](https://img.shields.io/github/stars/KennardWang/Solar-System-Wandering?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Solar-System-Wandering/stargazers)
+  &nbsp;
+  [![forks](https://img.shields.io/github/forks/KennardWang/Solar-System-Wandering?style=for-the-badge&color=white)](https://github.com/KennardWang/Solar-System-Wandering/forks)
+  &nbsp;
+  [![contributors](https://img.shields.io/github/contributors/KennardWang/Solar-System-Wandering?style=for-the-badge&color=8BC0D0)](https://github.com/KennardWang/Solar-System-Wandering/graphs/contributors)
+  
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
 
 <br>
@@ -491,13 +504,13 @@ Compile all the files and run the executable file. The keyboard and mouse events
 
 ## Releases
 
-[The latest version](https://github.com/KennardWang/Solar-System-Wandering/releases/tag/environment).
+[![badge](https://img.shields.io/badge/release-Latest-FF7800)](https://github.com/KennardWang/Solar-System-Wandering/releases/tag/environment)
 
 
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -509,4 +522,4 @@ Feel free to [open an issue](https://github.com/KennardWang/Solar-System-Wanderi
 
 ## License
 
-[MIT](LICENSE) © Kennard Wang. ( 2020.12.5 )
+[![license](https://img.shields.io/github/license/KennardWang/Solar-System-Wandering)](LICENSE) © Kennard Wang ( 2020.12.5 )
