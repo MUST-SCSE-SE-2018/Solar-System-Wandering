@@ -72,7 +72,7 @@ It is a project of MUST course ***CS104-Computer Graphics***, which is a game de
 
 ## Install
 
-1. Download the repository by `git clone https://github.com/KennardWang/Solar-System-Wandering.git`.
+1. Download the repository by `git clone https://github.com/MUST-SCSE-SE-2018/Solar-System-Wandering.git`.
 2. [Download](https://github.com/KennardWang/Solar-System-Wandering/releases) the **deployment** folder and unzip.
 3. Create a project and copy all files into the root directory.
 
