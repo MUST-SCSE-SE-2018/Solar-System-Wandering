@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Solar-System-Wandering)
+  [![description](https://img.shields.io/badge/project-Individual-FFB7C5?style=for-the-badge)](https://github.com/KennardWang/Solar-System-Wandering)
   &nbsp;
   [![stars](https://img.shields.io/github/stars/KennardWang/Solar-System-Wandering?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Solar-System-Wandering/stargazers)
   &nbsp;
@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
+  <img src="https://img.shields.io/badge/OpenGL-696969?style=for-the-badge&logo=opengl" />
   &nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
@@ -22,27 +22,27 @@
 <br>
 
 <div align=center>
-  <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/demo1.png" width="70%" />
+  <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/demo1.png" width="70%" />
 </div>
 
 <br>
 <div align=center>
-  <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/demo2.png" width="35%" />
+  <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/demo2.png" width="35%" />
   &nbsp;
-  <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/demo3.png" width="35%" />
+  <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/demo3.png" width="35%" />
 </div>
 
 <div align=center>
-  <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/demo4.png" width="35%" />
+  <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/demo4.png" width="35%" />
   &nbsp;
-  <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/demo5.png" width="35%" />
+  <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/demo5.png" width="35%" />
 </div>
 
 <br>
 
 It is a project of MUST course ***CS104-Computer Graphics***, which is a game developed in C++ and OpenGL. The game allows users to control a spacecraft and wander around the solar system.
 
-+ [Watch the full demo](https://kennardwang.github.io/ImageSource/Solar-System-Wandering/video.mp4)
++ [Watch the full demo](https://kennardwang.github.io/Image-Source/Solar-System-Wandering/video.mp4)
 
 
 
@@ -77,32 +77,32 @@ It is a project of MUST course ***CS104-Computer Graphics***, which is a game de
 3. Create a project and copy all files into the root directory.
 
   <div align=center>
-     <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial1.png" width="60%" />
+     <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial1.png" width="60%" />
   </div>
 
 4. Click **Show All Files**, and select all files except those in **deployment**. Right-click and choose **Include In Project**. Find `spacecraft.obj`, right click and choose **Properties**.
 
   <div align=center>
-     <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial2.png" width="25%" />
+     <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial2.png" width="25%" />
      &nbsp;
-     <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial3.png" width="25%" />
+     <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial3.png" width="25%" />
      &nbsp;
-     <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial4.png" width="25%" />
+     <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial4.png" width="25%" />
   </div>
 
 
 5. Set the value of **Excluded from Build** to **Yes**. Find ***project -> Properties -> C/C++ -> General***, and set the include directories as `.../deployment/include`. Find ***project -> Properties -> Linker -> General***, and set the additional library directories as `.../deployment/lib`. Find ***project -> Properties -> Linker -> Input***, and set the additional dependencies as `glfw3.lib glew32.lib soil2-debug.lib opengl32.lib`.
 
   <div align=center>
-    <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial5.png" width="35%" />
+    <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial5.png" width="35%" />
     &nbsp;
-    <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial6.png" width="35%" />
+    <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial6.png" width="35%" />
   </div>
 
   <div align=center>
-    <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial7.png" width="35%" />
+    <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial7.png" width="35%" />
     &nbsp;
-    <img src="https://kennardwang.github.io/ImageSource/Solar-System-Wandering/tutorial8.png" width="35%" />
+    <img src="https://kennardwang.github.io/Image-Source/Solar-System-Wandering/tutorial8.png" width="35%" />
   </div>
 
 
